@@ -373,3 +373,26 @@ tags
 .history
 
 # End of https://www.gitignore.io/api/macos,python,R,linux,vim,emacs,visualstudiocode,intellij
+# Created by .ignore support plugin (hsz.mobi)
+/.cproject
+/.project
+/build.*/
+/.pydevproject
+/.cache/
+*.so
+*.py[cod]
+/.idea
+/.DS_Store
+*.egg-info
+*.egg
+/build
+develop-eggs
+/dist
+/eggs
+lib
+lib64
+/.svn
+/.idea
+/run_tests
+/diagrams
+/doc/build
